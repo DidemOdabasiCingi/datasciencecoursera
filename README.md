@@ -1,5 +1,4 @@
 # Data Science Specialization | John Hopkins Coursera
-Author: Michael Galarnyk <br />
 
 Just started on Course 6 Statistical Inference (as of 5/12/2017). All the coursework is aggregated into one repo.
 
@@ -16,8 +15,6 @@ Course Number | Course | Link to Repo | Blog
 ## Contributors
 Github Username | Profile Page | Youtube Channel
 --- | --- | ---
-mGalarnyk | [Github Profile](https://github.com/mGalarnyk) | [Michael Galarnyk](https://www.youtube.com/c/MichaelGalarnyk)
-randerson112358 | [Github Profile](https://github.com/randerson112358) | [Randerson112358](https://www.youtube.com/channel/UCaV_0qp2NZd319K4_K8Z5SQ)
 Submit |  Pull Request | Your Github Profile Here
 
 ## License
